@@ -365,3 +365,5 @@ const wordSmash = (a, b, c, d, e, f) => {
     smashOutput.value = `"${newArray}"`
 }
 //*************************************************************//
+
+AOS.init();
